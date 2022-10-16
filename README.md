@@ -1,7 +1,3 @@
-# Introduction of intended use for code
-
-The code provided intends to generate the data seen in the report
-
 # File structure and use of each file
 
 In the directory src, a folder is created for each section of the dataset that is to be analysed. 
