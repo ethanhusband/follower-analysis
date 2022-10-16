@@ -1,12 +1,3 @@
-## A2-Project 1
-
-# Group leader: 
-    1268256, ehusband@student.unimelb.edu.au, Ethan Husband
-# Members: 
-    student number, username, Ishaan Srivistava
-    1263490, jagarnham@student.unimelb.edu.au, Jamie Garnham
-    student number, username, Parsa Babadi-Noroozi
-
 # Introduction of intended use for code
 
 The code provided intends to generate the data seen in the report
