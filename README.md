@@ -1,6 +1,7 @@
 ## A2-Project 1
 
-# Group leader: 1268256, ehusband@student.unimelb.edu.au, Ethan Husband
+# Group leader: 
+    1268256, ehusband@student.unimelb.edu.au, Ethan Husband
 # Members: 
     student number, username, Ishaan Srivistava
     1263490, jagarnham@student.unimelb.edu.au, Jamie Garnham
